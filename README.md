@@ -1,6 +1,25 @@
 # Python-Tutorial
 Python materials and tasks for my students
 
+# Environment
+
+Installation of python environment is way easier when doing it with virtual environment manager such as MiniConda.  For proper installation follow these steps:
+
+1. Install MiniConda from [here ](https://docs.conda.io/en/latest/miniconda.html) (choose version for Python 3.7)
+
+2. After installation press "Win" button and type "Anaconda prompt". In Anaconda command line type:
+
+   ```bash
+   $ conda -V
+   ```
+
+3. Make  sure that you have the newest version of conda, otherwise, update conda using:
+
+   ```bash
+   $ conda update conda
+   ```
+
+
 # Git
 
 Our tutorial requires you to install [GIT](https://git-scm.com/downloads). Select **Git Bash** during installation and use this command line when using GIT. At first use there will be pop up to enter your GitHub login data.
@@ -9,80 +28,76 @@ After you install GIT, follow these steps:
 
 1. **Clone** repository to your local machine using:
 
-   ```
+   ```bash
    $ git clone https://github.com/SaxMan96/Python-Tutorial.git
    ```
    
 2. **Pull** the changes from upstream. Your master needs to be up to date.
 
-   ```
-   $ git pull
+   ```bash
+   $ git pull origin master
    ```
 
 3. Create the **branch** on your local machine and switch in this branch (use name like john_smith):
 
-   ```
+   ```bash
    $ git checkout -b [name_of_your_new_branch]
    ```
 
-4. **Push** the branch on github :
+4. **Push** the branch on Github:
 
-   ```
+   ```bash
    $ git push origin [name_of_your_new_branch]
    ```
 
-If you configured your git branch properly, you can start working on tasks.
+    Please remember to work only on your branch, to check what branch you are currently on type:
+
+    ```bash
+   $ git branch -a
+    ```
 
 
 
+If you configured your git branch properly, you can start working on tasks. 
 
+1. After you've changed some files you have to add it to your staging area using:
+    ```bash
+    $ git add [file]  
+    ```
+    
+2. When you add all wanted files, you can save added file to your local repository with:
+    ```bash
+    $ git commit -m “[ Type in the commit message]”  
+    ```
+    
+3. If you want to send changes to GitHub repository use ```$ git push``` as mentioned above.
 
+4. If you want to start working with new task use ```$ git pull origin master``` command to make sure you have recent version of repository on your local machine.
 
+# Integrated Development Environment - IDE
 
+For our tutorial we will use **Jupyter Notebook** as our IDE, but there are a lot of alternatives such as Pycharm, Spyder, Visual Studio Code etc.
 
+To open Jupyter Notebook file (such as *Introduction.ipynb*):
 
-```
-git clone
-Usage: git clone [url]  
+1. Open Anaconda Prompt, it should look like this:
 
-This command is used to obtain a repository from an existing URL.
-```
+   ```bash
+   (base) C:\Users\John>
+   ```
 
-```
-git add
-Usage: git add [file]  
+   (base) - means that you have active *base* environment.
 
-This command adds a file to the staging area.
-```
+2. Go to your file location e.g.:
 
-```
-git commit
-Usage: git commit -m “[ Type in the commit message]”  
+   ```
+   cd C:\Users\John\Desktop\Python-Tutorial
+   ```
 
-This command records or snapshots the file permanently in the version history.
-```
+3. Then type:
 
-```
-git status
-Usage: git status  
+   ```
+   jupyter notebook
+   ```
 
-This command lists all the files that have to be committed.
-```
-
-```
-git pull
-Usage: git pull [Repository Link]  
-
-This command fetches and merges changes on the remote server to your working directory.
-```
-
-
-
-# Tasks
-
-## Animals
-
-**Topics**: Classes, Inheritance, Functions
-
-**Content**: Create parent class Animal, and child classes Dog and Cat.
-Create methods get_sound(), get_name(), 
+\* click help tab and learn shortcuts to work with Jupyter faster.
