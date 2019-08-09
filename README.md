@@ -101,3 +101,24 @@ To open Jupyter Notebook file (such as *Introduction.ipynb*):
    ```
 
 \* click help tab and learn shortcuts to work with Jupyter faster.
+
+# Lessons
+
+- **Lesson 1** - Introduction
+- **Lesson 2** - Containers Part I - Lists & Tuples
+- **Lesson 3** - Conditional Instructions & Operators
+- **Lesson 4** - Loops
+- **Lesson 5** - Containers Part II - Dictionary & Set
+- **Lesson 5** - String Formatting
+- **Lesson 7** - Functions
+- **Lesson 8** - Lambdas
+- **Lesson 9** - Classes
+- **Lesson 10** - Inheritance
+
+# Sources
+
+- [GIT](https://git-scm.com/downloads) - installation file
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - installation file
+- [W3Schools](www.w3schools.com/python) - some of examples
+- [Tutorialspoint](www.tutorialspoint.com/python) - some of examples
+- [Learnpython](www.learnpython.org) - some of examples
