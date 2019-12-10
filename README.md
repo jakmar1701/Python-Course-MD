@@ -2,9 +2,11 @@
 Python materials and tasks for my students
 
 # About me:
-Hi, I'm [Mateusz Dorobek](www.mateuszdorobek.pl). I'm student of Data Science at Warsaw University of Technology. I'm Python programmer, and I like to teach people, so why is this repository ;). I'm using Python in my everyday work as a tool for Machine Learning and Neural Networks. My biggest passion is Jazz Music, and I have created [Music Generator](https://github.com/SaxMan96/Music-Generator) using Python. Checkout other Python projects on my GitHub.
+Hi, I'm Mateusz Dorobek. I'm student of Data Science at Warsaw University of Technology. I'm Python programmer, and I like to teach people, so why is this repository ;). I'm using Python in my everyday work as a tool for Machine Learning and Neural Networks. My biggest passion is Jazz Music, and I have created [Music Generator](https://github.com/SaxMan96/Music-Generator) using Python. Checkout other Python projects on my GitHub.
 
-If you want to be my student contact me via my [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) profile or visit my profile on [E-korepetycje](e-korepetycje.net/mateuszdorobek)
+If you want to be my student contact me via my [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
+Visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
+Checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
 
 # Environment
 
