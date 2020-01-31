@@ -1,4 +1,4 @@
-# Python-Tutorial
+# Python-Course
 Python materials and tasks for my students
 
 # About me:
