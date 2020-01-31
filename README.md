@@ -1,14 +1,13 @@
 # Python-Course
-Python materials and tasks for my students
+**Python Begginer to Intermediate Course** materials and tasks for my students
 
-# About me:
-Hi, I'm Mateusz Dorobek. I'm student of Data Science at Warsaw University of Technology. I'm Python programmer, and I like to teach people, so why is this repository ;). I'm using Python in my everyday work as a tool for Machine Learning and Neural Networks. My biggest passion is Jazz Music, and I have created [Music Generator](https://github.com/SaxMan96/Music-Generator) using Python. Checkout other Python projects on my GitHub.
+# About:
+Hi, I'm Mateusz Dorobek. I'm student of Data Science at Warsaw University of Technology. I'm Python programmer with strong technical background, and I like to teach people.  I've created a repository [Python-Course](https://github.com/SaxMan96/Python-Course) with materials and tasks for my students. I'm using python in my everyday work as a tool for building aplications, webscrapping, artificial intelligence, music and many other interesting stuff. Check out my Begginer to Intermediate Course.
 
-If you want to be my student contact me via my [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
-
-Visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
-
-Checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
+If you want to be my student visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
+write me an email: `dorobekmateusz(at)gmail.com`
+contact me via: [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
+checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
 
 # Environment
 
@@ -35,48 +34,37 @@ Our tutorial requires you to install [GIT](https://git-scm.com/downloads). Selec
 
 After you install GIT, follow these steps:
 
-1. **Clone** repository to your local machine using:
+0. **Fork** this repo using button at the bottom of [this](https://github.com/SaxMan96/Python-Course) page
+
+1. **Clone** forked repository to your local machine using:
 
    ```bash
-   $ git clone https://github.com/SaxMan96/Python-Tutorial.git
+   $ git clone https://github.com/<YOUR_USERNAME>/Python-Course.git
    ```
    
-2. **Pull** the changes from upstream. Your master needs to be up to date.
+2. **Pull Request** from mine GitHub repo to your fork everytime that I've uploaded new tasks, and then **Pull** the changes to your local machine. Your master needs to be up to date.
 
    ```bash
    $ git pull origin master
    ```
 
-3. Create the **branch** on your local machine and switch in this branch (use name like john_smith):
-
-   ```bash
-   $ git checkout -b [name_of_your_new_branch]
-   ```
-
-4. **Push** the branch on Github:
-
-   ```bash
-   $ git push origin [name_of_your_new_branch]
-   ```
-
-    Please remember to work only on your branch, to check what branch you are currently on type:
-
-    ```bash
-   $ git branch -a
-    ```
-
-
-
 If you configured your git branch properly, you can start working on tasks. 
 
 1. After you've changed some files you have to add it to your staging area using:
+
     ```bash
     $ git add [file]  
     ```
+    or to add all files
+   
+    ```bash
+    $ git add .
+    ```   
     
 2. When you add all wanted files, you can save added file to your local repository with:
+
     ```bash
-    $ git commit -m “[ Type in the commit message]”  
+    $ git commit -m "commit message"
     ```
     
 3. If you want to send changes to GitHub repository use ```$ git push``` as mentioned above.
