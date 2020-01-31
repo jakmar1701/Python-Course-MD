@@ -1,14 +1,13 @@
 # Python-Course
-Python materials and tasks for my students
+**Python Begginer to Intermediate Course** materials and tasks for my students
 
-# About me:
-Hi, I'm Mateusz Dorobek. I'm student of Data Science at Warsaw University of Technology. I'm Python programmer, and I like to teach people, so why is this repository ;). I'm using Python in my everyday work as a tool for Machine Learning and Neural Networks. My biggest passion is Jazz Music, and I have created [Music Generator](https://github.com/SaxMan96/Music-Generator) using Python. Checkout other Python projects on my GitHub.
+# About:
+Hi, I'm Mateusz Dorobek. I'm student of Data Science at Warsaw University of Technology. I'm Python programmer with strong technical background, and I like to teach people.  I've created a repository [Python-Course](https://github.com/SaxMan96/Python-Course) with materials and tasks for my students. I'm using python in my everyday work as a tool for building aplications, webscrapping, artificial intelligence, music and many other interesting stuff. Check out my Begginer to Intermediate Course.
 
-If you want to be my student contact me via my [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
-
-Visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
-
-Checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
+If you want to be my student visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
+write me an email: `dorobekmateusz(at)gmail.com`
+contact me via: [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
+checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
 
 # Environment
 
