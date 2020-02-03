@@ -4,10 +4,11 @@
 # About:
 Hi, I'm Mateusz Dorobek. I'm student of Data Science at Warsaw University of Technology. I'm Python programmer with strong technical background, and I like to teach people.  I've created a repository [Python-Course](https://github.com/SaxMan96/Python-Course) with materials and tasks for my students. I'm using python in my everyday work as a tool for building aplications, webscrapping, artificial intelligence, music and many other interesting stuff. Check out my Begginer to Intermediate Course.
 
-If you want to be my student visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
-write me an email: `dorobekmateusz(at)gmail.com`
-contact me via: [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
-checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
+If you want to be my student:
+- visit my profile on [E-korepetycje](https://www.e-korepetycje.net/mateuszdorobek)
+- write me an email: `dorobekmateusz(at)gmail.com`
+- contact me via: [LinkedIn](https://www.linkedin.com/in/mateuszdorobek/) 
+- checout my website: [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
 
 # Environment
 
